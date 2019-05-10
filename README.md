@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesaslack/christmas/master)
+
 This is a collective of festive coding activities using Jupyter notebooks written in Python.
 The main activity is to use Pyknon to create and play a Midi file to create sections of Jingle bells building together until you can play the entire song.
 There are also two additional activities to create a Christmas tree from common keyboard characters and also to use PIL to write Merry Christmas on top of an image.
