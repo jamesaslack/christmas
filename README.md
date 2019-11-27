@@ -7,5 +7,7 @@ This code was created to the best of my current ability but there is certainly r
 
 Licenses for Images:
   Rudoplh.png - https://pixabay.com/en/rudolph-reindeer-christmas-happy-951494/ CCO
+  
   Reindeer.png - https://www.flickr.com/photos/britishlibrary/11001732214/in/album-72157638821811323/ Public Domain
+  
   Notes.png and Jinglebells.png are both personally created materials that are free to use.
